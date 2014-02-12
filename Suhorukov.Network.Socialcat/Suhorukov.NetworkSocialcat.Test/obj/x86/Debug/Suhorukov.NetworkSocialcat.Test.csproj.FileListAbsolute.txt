@@ -1,0 +1,18 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.NetworkSocialcat.Test.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.NetworkSocialcat.Test.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.Vk.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\Suhorukov.NetworkSocialcat.Test.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\Suhorukov.NetworkSocialcat.Test.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\Suhorukov.NetworkSocialcat.Test.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\Suhorukov.NetworkSocialcat.Test.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.NetworkSocialcat.Test.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.NetworkSocialcat.Test.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.Vk.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.NetworkSocialcat.Test\bin\Debug\Suhorukov.Network.Socialcat.pdb

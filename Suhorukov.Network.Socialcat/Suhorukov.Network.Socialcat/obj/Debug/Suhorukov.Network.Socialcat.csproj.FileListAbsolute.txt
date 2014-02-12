@@ -1,0 +1,10 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\bin\Debug\Suhorukov.Network.Socialcat.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\bin\Debug\Suhorukov.Network.Socialcat.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\Suhorukov.Network.Socialcat.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\Suhorukov.Network.Socialcat.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\Suhorukov.Network.Socialcat.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\bin\Debug\Suhorukov.Network.Socialcat.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\bin\Debug\Suhorukov.Network.Socialcat.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat\obj\Debug\Suhorukov.Network.Socialcat.dll

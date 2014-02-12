@@ -1,0 +1,14 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.Vk.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\Suhorukov.Network.Socialcat.Vk.dll
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.Vk.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.Vk.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\bin\Debug\Suhorukov.Network.Socialcat.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Suhorukov.Network.Socialcat\Suhorukov.Network.Socialcat.Vk\obj\Debug\Suhorukov.Network.Socialcat.Vk.dll
