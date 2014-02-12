@@ -13,7 +13,7 @@ namespace Suhorukov.Network.Socialcat.Vk
         {
             Session = session;
         }
-//
+
         public ISocialSession Session { get; private set; }
 
         public IEnumerable<AudioInfo> GetRecords(AudioSearchParameters parameters)
